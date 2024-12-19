@@ -29,7 +29,7 @@ weather_rideshare_analysis/
 ## Setup
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/weather-rideshare-analysis.git
+git clone https://github.com/Burton-David/weather-rideshare-analysis.git
 cd weather-rideshare-analysis
 ```
 
